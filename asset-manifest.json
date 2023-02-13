@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bm-vault/static/css/main.0cbe7d4e.css",
+    "main.js": "/bm-vault/static/js/main.4e71c259.js",
+    "index.html": "/bm-vault/index.html",
+    "main.0cbe7d4e.css.map": "/bm-vault/static/css/main.0cbe7d4e.css.map",
+    "main.4e71c259.js.map": "/bm-vault/static/js/main.4e71c259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbe7d4e.css",
+    "static/js/main.4e71c259.js"
+  ]
+}
